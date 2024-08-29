@@ -1,6 +1,7 @@
 # Finger Counting Application Using OpenCV
 
-<img align="center" alt="Coding" width="100%" height='300px' src="fingercounter.jfif">
+<img align="center" alt="Coding" width="100%" height='200px' src="fc.jfif">
+
 ## Introduction
 
 This application uses OpenCV and MediaPipe to see your hand and count how many fingers are up. It draws lines to show where your fingers are and uses the position of your fingertips to figure out the count. For explained working of the system see [explanation]() file.
@@ -19,8 +20,7 @@ This application uses OpenCV and MediaPipe to see your hand and count how many f
     cap=cv2.VideoCapture(param)
    ```
    +  If you are using default webcam set param=0.
-   +  Set param = 1, 2, 3, ... These numbers represent additional video capture devices connected to your system. If you have multiple cameras, you can use these values to  
-      select a specific one.
+   +  Set param = 1, 2, 3, ... These numbers represent additional video capture devices connected to your system. If you have multiple cameras, you can use these values to select a specific one.   
 
    
 5. Run the main.py file.

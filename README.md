@@ -1,6 +1,6 @@
 # Finger Counting Application Using OpenCV
 
-<img align="center" alt="Coding" width="100%" height='300px' src="">
+<img align="center" alt="Coding" width="100%" height='300px' src="fingercounter.jfif">
 ## Introduction
 
 This application uses OpenCV and MediaPipe to see your hand and count how many fingers are up. It draws lines to show where your fingers are and uses the position of your fingertips to figure out the count. For explained working of the system see [explanation]() file.

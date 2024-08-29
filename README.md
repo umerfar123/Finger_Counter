@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This application uses OpenCV and MediaPipe to see your hand and count how many fingers are up. It draws lines to show where your fingers are and uses the position of your fingertips to figure out the count. For explained working of the system see [explanation]('https://github.com/umerfar123/um_hand_digit_counter/blob/main/explanation.md') file.
+This application uses OpenCV and MediaPipe to see your hand and count how many fingers are up. It draws lines to show where your fingers are and uses the position of your fingertips to figure out the count. For explained working of the system see [explanation](https://github.com/umerfar123/um_hand_digit_counter/blob/main/explanation.md) file.
 
 ## Usage
 

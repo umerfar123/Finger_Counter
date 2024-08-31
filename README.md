@@ -26,7 +26,7 @@ This application uses OpenCV and MediaPipe to see your hand and count how many f
 5. Run the main.py file.
 
    ```python
-     python run main.py
+     python main.py
    ```
 ___
  > [!NOTE]
